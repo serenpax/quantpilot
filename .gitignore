@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+*.apk
+
+# Kotlin
+.kotlin/
+
+# Android Studio
+local.properties
+*.iml
+.idea/
+
+# Signing
+quantpilot.keystore
+
+# Logs
+build_log.txt
+build_err.txt
+crashlog.txt
+
+# Screenshots
+screenshot_*.png
+
+# Misc
+.mimocode/
+captures/
